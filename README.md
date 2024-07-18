@@ -31,6 +31,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Agamenon-JQuery" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg">
     
   <img align="center" alt="Agamenon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Agamenon-Dart" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Dart-Dark.svg">
+  
   <img align="center" alt="Agamenon-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
   
