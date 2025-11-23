@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Developer;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Ci%C3%AAncia+de+Dados)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=350&lines=FullStack+Developer;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Ci%C3%AAncia+de+Dados)](https://git.io/typing-svg)
 
 </div>
 
