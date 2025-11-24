@@ -46,6 +46,18 @@ Dados: MySQL, Spring Data JPA e Flyway.
 </p>
 
 ## 📊 GitHub Stats
+
+<div align="center">  
+  <img width="59%" height="195px" src="https://github-readme-stats.vercel.app/api?username=agamenonjunior&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamenonjunior&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agamenonjunior&theme=dark">
+</div>
+
 <!--
 **agamenonjunior/agamenonjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -61,11 +73,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <a href="https://github.com/agamenonjunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agamenonjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamenonjunior&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   
  
   
@@ -78,13 +86,3 @@ Here are some ideas to get you started:
   <a href = "mailto:agamenon.junior@discente.ufma.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/agamenon-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<div align="center">  
-  <img width="59%" height="195px" src="https://github-readme-stats.vercel.app/api?username=agamenonjunior&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamenonjunior&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=agamenonjunior&theme=dark">
-</div>
