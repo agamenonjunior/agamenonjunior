@@ -1,4 +1,5 @@
 ##  Olá! Eu sou o Agamenon! Mas pode chamar de Junior👋
+</br>
 
 <div align="center">
 
@@ -15,6 +16,36 @@
 * Pós-graduado em Ciência de Dados 
 * Pós-graduado em Segurança da Informação
 ## 🚀 (Desenvolvedor Full Stack | REST APIs)
+
+</br>
+
+## Tecnologias
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,php,javascript,python,java,lua,dart,html,css,bootstrap,react,laravel,nodejs,flask,flutter" />
+  </a>
+</p>
+
+## Estudando sobre
+
+<p>
+Java, com foco em: 
+Spring Boot, Design Patterns (DTO, Strategy), Clean Code e Swagger (OpenAPI). 
+
+Segurança: Autenticação e autorização robusta com Spring Security e JWT. 
+
+Microsserviços: (Spring Cloud): Gateway, Eureka, OpenFeign, Config Server e LoadBalancer.
+
+Cloud & DevOps: Docker, Kubernetes, CI/CD com GitHub Actions, Deploy em AWS (ECS, RDS) e GCP (Cloud Run, GKE). 
+
+QA & Testes: TDD, JUnit 5, Mockito, REST Assured e TestContainers. 
+
+Dados: MySQL, Spring Data JPA e Flyway.
+
+</p>
+
+## 📊 GitHub Stats
 <!--
 **agamenonjunior/agamenonjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,20 +67,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamenonjunior&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Agamenon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Agamenon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Agamenon-Php" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" />
-    
-  <img align="center" alt="Agamenon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Agamenon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Agamenon-JQuery" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg">
-    
-  <img align="center" alt="Agamenon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Agamenon-Dart" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Dart-Dark.svg">
-  
-  <img align="center" alt="Agamenon-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-</div>
+ 
   
  ##
  
