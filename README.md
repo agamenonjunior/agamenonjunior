@@ -1,4 +1,4 @@
-##  Olá! Eu sou o Agamenon! Mas pode chamar de Junior👋
+##  Olá! Eu sou o Agamenon!👋
 </br>
 
 <div align="center">
