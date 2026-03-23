@@ -1,4 +1,4 @@
-##  Olá! Eu sou o Agamenon! Mas pode chamar de Junior👋
+##  Olá! Eu sou o Agamenon!👋
 </br>
 
 <div align="center">
@@ -15,6 +15,7 @@
 * Bacharel em Ciência e Tecnologia - UFMA
 * Pós-graduado em Ciência de Dados 
 * Pós-graduado em Segurança da Informação
+* Engenharia da Computação - UFMA
 ## 🚀 (Desenvolvedor Full Stack | REST APIs)
 
 </br>
@@ -27,10 +28,10 @@
   </a>
 </p>
 
-## Estudando sobre
+## :pushpin: Java, com foco em :
 
 <p>
-Java, com foco em: 
+ 
 Spring Boot, Design Patterns (DTO, Strategy), Clean Code e Swagger (OpenAPI). 
 
 Segurança: Autenticação e autorização robusta com Spring Security e JWT. 
